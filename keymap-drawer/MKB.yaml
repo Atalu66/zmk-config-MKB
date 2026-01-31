@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - BKSP
+  - BACKSPACE
   - {t: ESC, h: BT}
   - A
   - S
@@ -24,7 +24,7 @@ layers:
   - K
   - L
   - SEMI
-  - {t: SQT, h: Mouse}
+  - ENTER
   - LSHFT
   - Z
   - X
@@ -41,7 +41,7 @@ layers:
   - LGUI
   - LALT
   - {t: SPACE, h: Num}
-  - {t: SPACE, h: Fnc}
+  - {t: SPACE, h: Mouse}
   - {t: SPACE, h: Fnc}
   - {t: SPACE, h: Num}
   - LEFT
@@ -100,8 +100,8 @@ layers:
   - {t: ▽, type: trans}
   - LALT
   - ENTER
-  - {t: ENTER, type: held}
   - ENTER
+  - {t: ENTER, type: held}
   - ENTER
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -201,24 +201,24 @@ layers:
   - '&mkp MB3'
   - '&mkp MB2'
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
