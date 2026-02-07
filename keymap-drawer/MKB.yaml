@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - A
+  - BACKSPACE
   - {t: ESC, h: BT}
   - A
   - S
