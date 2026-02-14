@@ -136,7 +136,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: Fnc, h: toggle}
   - MINUS
   - EQUAL
   - LBKT
@@ -148,7 +148,7 @@ layers:
   - DEL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: Mouse, h: toggle}
   - {t: ▽, type: trans}
   - FSLH
   - SEMI
