@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: MKB}
 layers:
   Def:
-  - TAB
+  - {t: ESC, h: BT}
   - Q
   - W
   - E
@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - BACKSPACE
-  - {t: ESC, h: BT}
+  - TAB
   - A
   - S
   - D
@@ -35,18 +35,18 @@ layers:
   - M
   - COMMA
   - DOT
-  - UP
   - FSLH
-  - {t: ESC, h: LCTL}
+  - BACKSLASH
+  - LEFT CONTROL
   - LGUI
   - LALT
   - {t: SPACE, h: Num}
   - {t: SPACE, h: Mouse}
   - {t: SPACE, h: Fnc}
   - {t: SPACE, h: Num}
-  - LEFT
-  - DOWN
-  - RIGHT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - LEFT
   - UP
   - SPACE
@@ -57,8 +57,8 @@ layers:
   - ENTER
   - PG DN
   - END
-  - A
-  - B
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   Fnc:
   - GRAVE
   - PG UP
@@ -296,7 +296,7 @@ layers:
   - A
   - B
   BT:
-  - BT CLR
+  - {t: BT CLR, type: held}
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
@@ -308,7 +308,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
