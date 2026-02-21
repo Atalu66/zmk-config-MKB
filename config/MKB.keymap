@@ -32,7 +32,7 @@
 &kp LSHFT         &kp Z     &kp X      &kp C     &kp V          &kp B            &kp N           &kp M          &kp COMMA  &kp DOT    &kp FSLH   &kp BACKSLASH
 &kp LEFT_CONTROL  &kp LGUI  &kp LALT             &lt NUM SPACE  &lt 3 SPACE      &lt FUNC SPACE  &lt NUM SPACE             &trans     &trans     &trans
 &kp LEFT          &kp UP    &kp SPACE  &kp DOWN  &kp RIGHT                                       &kp HOME       &kp PG_UP  &kp ENTER  &kp PG_DN  &kp END
-                                       &trans                                                                   &trans
+                                       &kp A                                                                    &kp B
             >;
 
             sensor-bindings =
