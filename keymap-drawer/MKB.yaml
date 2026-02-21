@@ -44,9 +44,9 @@ layers:
   - {t: SPACE, h: Mouse}
   - {t: SPACE, h: Fnc}
   - {t: SPACE, h: Num}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
   - LEFT
   - UP
   - SPACE
